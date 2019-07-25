@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/trevans24/united-scraper/issues"
   },
-  "homepage": "https://github.com/trevans24/united-scraper#readme"
+  "homepage": "https://github.com/trevans24/united-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
 }
